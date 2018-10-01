@@ -1,0 +1,17 @@
+{
+    "name": "kuchmac/quete_simple_mvc",
+    "description": "quete mvc2",
+    "authors": [
+        {
+            "name": "Christophe Kuchmac",
+            "email": "christophekuchmac@free.fr"
+        }
+    ],
+    "require": {},
+
+"autoload": {
+    "psr-4": {
+        "": "src/"
+    }
+}
+}
